@@ -1,2 +1,1 @@
-# hello-world
-just another repository
+some changes on the text of readme was done
